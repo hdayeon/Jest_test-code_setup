@@ -1,3 +1,5 @@
+[Jest 세팅 문서](https://nextjs.org/docs/app/building-your-application/testing/jest#running-your-tests)
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
